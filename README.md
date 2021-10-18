@@ -1,4 +1,3 @@
-# JX's Github profile
 ## 👁‍🗨 About me
 - ‍💻 ICT-Engineer student
 - 🔧 Tech & Programming:
