@@ -1,7 +1,8 @@
 ## 👁‍🗨 About me
-- ‍💻 ICT-Engineer student
-- 🔧 Tech & Programming:
-  - C++, C, C# .NET, Python
+- ‍💻 Information and Communication Technology, Engineer's degree (student currently).
+- ⚡ Electrical and Automation Technology, Vocational degree.
+## 🔧 Tech & Programming:
+  - C++, C, C#, .NET, Python
   - Java, Android, HTML, PHP, MySQL
   - Robot Framework, Bash, Groovy
   - Windows, Linux (basics)
