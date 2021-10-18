@@ -1,16 +1,36 @@
-### Hi there 👋
+# JX's Github profile
+## 👁‍🗨 About me
+- ‍💻 ICT-Engineer student
+- 🔧 Tech & Programming:
+  - C++ / C
+  - C# / .NET
+  - Python
+  - Java / Android
+  - HTML / PHP
+  - Robot Framework
+  - Bash
+  - Groovy
+  - Windows
+  - Arduino
+  - Nucleo STM32
+  - Raspberry Pi
 
-<!--
-**0xJX/0xJX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Game cheat projects 
+  - CS:GO - Connect-CGO (C++)
+    
+    🟢 Status: Supported | 2014-2021
+  - TF2 - Connect-TF2 (C++)
+    
+    🔴 Status: Discontinued | 2017-2019
+  - GTA V - Connect-V (C++)
+    
+    🔴 Status: Discontinued | 2015-2017
+  - Minecraft - Infinity Client (Java)
+    
+    🔴 Status: Discontinued | 2010-2013
+  - Terraria - Infinity Client (C#)
+    
+    🔴 Status: Discontinued | 2012-2012
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Contact me
+- Discord: JX#7313
