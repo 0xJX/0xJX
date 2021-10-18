@@ -14,8 +14,8 @@
   🔴 Status: Discontinued
   - TF2 - Connect-TF2 (C++) 2017-2018
   - GTA V - Connect-V (C++) 2015-2017
-  - Minecraft - Infinity Client 2010-2013 (Java) 
-  - Terraria - Infinity Client 2012-2012 (C#)
+  - Minecraft - Infinity Client (Java) 2010-2013
+  - Terraria - Infinity Client (C#) 2012-2012
 
 ## 💬 Contact me
 - Discord: JX#7313
