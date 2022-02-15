@@ -3,16 +3,16 @@
 - ⚡ Electrical and Automation Technology, Vocational degree.
 - 🚘 Built Toyota Supra 1994 TwinTurbo (2JZ-GTE VVT-i, T56 Magnum-F 6spd, AEM Electronics)
 ## 🔧 Tech & Programming:
-  - C++, C, C#, .NET, Python
-  - Java, Android, HTML, PHP, MySQL
+  - C++, C, C#, Python
+  - Java, JS, Android, HTML, PHP, MySQL
   - Robot Framework, Bash, Groovy
   - Windows, Linux (basics)
   - Raspberry Pi, Arduino, Nucleo STM32
 
 ## 📌 Game cheat projects 
     🟢 Status: Supported
-    - CS:GO - Connect-CGO (C++) 2014-2021
-    - Windows .DLL Injector - Connect-Loader (C++) 2014-2021
+    - CS:GO - Connect-CGO (C++) 2014-2022
+    - Windows .DLL Injector - Connect-Loader (C++) 2014-2022
 
     🔴 Status: Discontinued
     - TF2 - Connect-TF2 (C++) 2017-2018
