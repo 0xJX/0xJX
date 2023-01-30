@@ -12,7 +12,7 @@
 
 ## 📌 Game cheat projects 
     🟢 Status: Supported
-    - Undefined
+    - CS:GO - Connect-CGOEX (C++) 2022-
     
     🔴 Status: Discontinued
     - CS:GO - Connect-CGO (C++) 2014-2022
