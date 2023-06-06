@@ -1,6 +1,6 @@
 ## 👁‍🗨 About me
 - 💼 Working as a Software Engineer
-- ‍💻 Information and Communication Technology, Engineer's degree (student currently).
+- ‍💻 Bachelor of Applied Science - BASc, Information and Communication Technology.
 - ⚡ Electrical and Automation Technology, Vocational degree.
 - 🚘 Built Toyota Supra 1994 TwinTurbo (2JZ-GTE VVT-i, T56 Magnum-F 6spd, AEM Electronics)
 ## 🔧 Tech & Programming:
