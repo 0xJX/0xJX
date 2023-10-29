@@ -1,6 +1,6 @@
 ## 👁‍🗨 About me
 - 💼 Working as a Software Engineer
-- ‍💻 Bachelor of Applied Science - BASc, Information and Communication Technology.
+- ‍💻 Bachelor of Engineering - BEng, Information and Communication Technology.
 - ⚡ Electrical and Automation Technology, Vocational degree.
 - 🚘 Built Toyota Supra 1994 TwinTurbo (2JZ-GTE VVT-i, T56 Magnum-F 6spd, AEM Electronics)
 ## 🔧 Tech & Programming:
@@ -12,9 +12,10 @@
 
 ## 📌 Game cheat projects 
     🟢 Status: Supported
-    - CS:GO - Connect-CGOEX (C++) 2022-
+    - CS2 - Connect-CS2EX (C++) 2023-
     
     🔴 Status: Discontinued
+    - CS:GO - Connect-CGOEX (C++) 2022-2023
     - CS:GO - Connect-CGO (C++) 2014-2022
     - Windows .DLL Injector - Connect-Loader (C++) 2014-2022
     - TF2 - Connect-TF2 (C++) 2017-2018
